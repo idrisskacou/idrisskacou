@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 
 - 👋 Hi, I’m @idrisskacou
-- 👀 I’m Computer Science Major
+- 👀 I’m a Computer Science Major
 - 🌱 I’m currently know Java, C++, C#, C and Python 
 - 💞️ I’m looking to collaborate on that is fun
 - 📫 Reach me on my linkedin 
