@@ -10,7 +10,14 @@ You can click the Preview link to take a look at your changes.
 - 👀 I’m a Computer Science Major
 - 🌱 I’m currently know Java, C++, C#, C and Python 
 - 💞️ I’m looking to collaborate on that is fun
-- 📫 Reach me on my linkedin 
+- 📫 Reach me on my linkedin
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/idrisskacou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="idrisskacou" height="30" width="40" /></a>
+</p>
+
 
 
 ## Contributing
