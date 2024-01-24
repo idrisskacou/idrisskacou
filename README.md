@@ -5,16 +5,12 @@ You can click the Preview link to take a look at your changes.
 --->
 # Welcome to my GITHUB Repository
 
-Foobar is a Python library for dealing with word pluralization.
+
 - 👋 Hi, I’m @idrisskacou
 - 👀 I’m Computer Science Major
 - 🌱 I’m currently know Java, C++, C#, C and Python 
 - 💞️ I’m looking to collaborate on that is fun
 - 📫 Reach me on my linkedin 
-
-## Installation
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 
 
 ## Contributing
