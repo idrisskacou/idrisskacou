@@ -18,6 +18,8 @@ You can click the Preview link to take a look at your changes.
 <a href="https://linkedin.com/in/idriss-kacou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="idrisskacou" height="30" width="40" /></a>
 </p>
 
+![idrisskacou's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=idrisskacou&theme=dracula&show_icons=true&hide_border=false&layout=compact)
+![idrisskacou's Streak](https://github-readme-streak-stats.herokuapp.com/?user=idrisskacou&theme=dracula&hide_border=false)
 
 
 ## Contributing
